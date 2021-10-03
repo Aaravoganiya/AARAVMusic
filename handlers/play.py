@@ -121,6 +121,7 @@ async def playlist(client, message):
     msg = "**Now playing** on {}".format(message.chat.title)
     msg += "\n• "+ now_playing
     msg += "\n• Requested By "+by
+    msg += "\n• Barbie Meri Jaan 🖤
     temp.pop(0)
     if temp:
         msg += "\n\n"
