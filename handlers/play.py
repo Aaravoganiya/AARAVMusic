@@ -933,5 +933,6 @@ async def ytplay(_, message: Message):
             caption = f"🏷 **Name:** [{title[:25]}]({url})\n⏱ **Duration:** `{duration}`\n💡 **Status:** `Playing`\n" \
                     + f"🎧 **Request by:** {message.from_user.mention}",
                    reply_markup=keyboard,)
+                    + f"🖤 **Barbie Meri Jaan**
         os.remove("final.png")
         return await lel.delete()
