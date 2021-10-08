@@ -1,4 +1,4 @@
-<h2 align="centre">🎵 VEEZ MUSIC BOT</h2>
+<h2 align="centre">🎵 AARAV OP MUSIC BOT</h2>
 
 ### Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
@@ -95,7 +95,7 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/veezmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aaravoganiya/VeezMusic)
 
 ## Railway Deployment 🚄
 For deployment on railway you can see the full of [Necessary Variables Here](https://github.com/levina-lab/VeezMusic/blob/main/example.env), make sure you fill all of it.
