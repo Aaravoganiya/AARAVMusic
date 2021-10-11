@@ -1,6 +1,6 @@
 <h2 align="centre">🎵 AARAV OP MUSIC BOT</h2>
 
-### Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group.
+### AARAV MUSIC BOT is a telegram bot project that's allow you to play music on telegram voice chat group.
 
 <p align="center"><a href="https://t.me/VeezMusicBot"><img src="https://telegra.ph/file/96aacf1e475e4a9b0eebf.jpg" width="300"></a></p>
 <p align="center">
@@ -118,14 +118,7 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - `python3 main.py` # Run the bot
 
 ### Special Credits 💖
-- [Levina](https://github.com/levina-lab): Dev
-- [Tofik](https://github.com/tofikdn): Dev
-- [Zxce3](https://github.com/Zxce3): Dev
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/callsmusic/callsmusic) CallsMusic
-- [Veez Music Bot](https://t.me/veezmusicbot) Our Music Bot
-- [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
-- [TeamDaisyX](https://github.com/TeamDaisyX) for base code
+- [AARAV](https://github.com/Aaravoganiya): Dev
 
 ### Support & Updates 🎑
 <a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
