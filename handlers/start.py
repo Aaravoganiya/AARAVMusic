@@ -41,8 +41,6 @@ async def start_(client: Client, message: Message):
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
 ❔ **To know how to use this bot, please click on the » ❓ Basic Guide button!**
-
-🖤 **Mai Sirf Barbie Ka Hu**
 </b>""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -67,7 +65,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/Aaravoganiya/VeezMusic"
+                        "🌐 Source Code", url="https://github.com/levina-lab/VeezMusic"
                     )
                 ],
             ]
